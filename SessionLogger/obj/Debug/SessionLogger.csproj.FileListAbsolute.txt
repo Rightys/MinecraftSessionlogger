@@ -1,0 +1,7 @@
+C:\Users\Robin\source\repos\SessionLogger\SessionLogger\bin\Debug\SessionLogger.exe
+C:\Users\Robin\source\repos\SessionLogger\SessionLogger\bin\Debug\SessionLogger.pdb
+C:\Users\Robin\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.csproj.CoreCompileInputs.cache
+C:\Users\Robin\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.exe
+C:\Users\Robin\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.pdb
+C:\Users\Robin\source\repos\SessionLogger\SessionLogger\bin\Debug\SessionLogger.exe.config
+C:\Users\Robin\source\repos\SessionLogger\SessionLogger\obj\Debug\SessionLogger.csprojAssemblyReference.cache
